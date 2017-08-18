@@ -1,0 +1,8 @@
+Content\GameFont.xnb
+Content\spr_background.xnb
+Content\spr_ball.xnb
+Content\spr_brick_blue.xnb
+Content\spr_brick_green.xnb
+Content\spr_brick_red.xnb
+Content\spr_brick_yellow.xnb
+Content\spr_paddle.xnb

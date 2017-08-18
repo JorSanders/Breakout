@@ -1,0 +1,16 @@
+C:\Users\marco\Desktop\Frogger\Breakout\Breakout\Breakout\bin\x86\Debug\Content\GameFont.xnb
+C:\Users\marco\Desktop\Frogger\Breakout\Breakout\Breakout\bin\x86\Debug\Content\spr_background.xnb
+C:\Users\marco\Desktop\Frogger\Breakout\Breakout\Breakout\bin\x86\Debug\Content\spr_ball.xnb
+C:\Users\marco\Desktop\Frogger\Breakout\Breakout\Breakout\bin\x86\Debug\Content\spr_brick_blue.xnb
+C:\Users\marco\Desktop\Frogger\Breakout\Breakout\Breakout\bin\x86\Debug\Content\spr_brick_green.xnb
+C:\Users\marco\Desktop\Frogger\Breakout\Breakout\Breakout\bin\x86\Debug\Content\spr_brick_red.xnb
+C:\Users\marco\Desktop\Frogger\Breakout\Breakout\Breakout\bin\x86\Debug\Content\spr_brick_yellow.xnb
+C:\Users\marco\Desktop\Frogger\Breakout\Breakout\Breakout\bin\x86\Debug\Content\spr_paddle.xnb
+C:\Users\marco\Desktop\Frogger\Breakout\Breakout\Breakout\bin\x86\Debug\Breakout.exe
+C:\Users\marco\Desktop\Frogger\Breakout\Breakout\Breakout\bin\x86\Debug\Breakout.pdb
+C:\Users\marco\Desktop\Frogger\Breakout\Breakout\Breakout\bin\x86\Debug\GameManagement.dll
+C:\Users\marco\Desktop\Frogger\Breakout\Breakout\Breakout\bin\x86\Debug\GameManagement.pdb
+C:\Users\marco\Desktop\Frogger\Breakout\Breakout\Breakout\obj\x86\Debug\Breakout.csprojResolveAssemblyReference.cache
+C:\Users\marco\Desktop\Frogger\Breakout\Breakout\Breakout\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\marco\Desktop\Frogger\Breakout\Breakout\Breakout\obj\x86\Debug\Breakout.exe
+C:\Users\marco\Desktop\Frogger\Breakout\Breakout\Breakout\obj\x86\Debug\Breakout.pdb
